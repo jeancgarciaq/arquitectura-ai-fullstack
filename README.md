@@ -3,7 +3,7 @@
 Bienvenido al repositorio oficial de **vibradev**. Este no es un curso de programación convencional; es un entrenamiento de alto nivel diseñado para dominar el desarrollo web Fullstack utilizando la **Inteligencia Artificial como mentor estratégico.**
 
 ## 🎯 El Concepto
-A diferencia del *Vibecoding* tradicional (programar por instinto), aquí aplicamos **Ingeniería con Fundamento**. Utilizamos los hitos de [roadmap.sh](https://roadmap.sh/fullstack) para entender el "porqué" técnico antes de ejecutar un solo prompt.
+A diferencia del *Vibecoding* tradicional (programar por instinto), aquí aplicamos **Ingeniería con Fundamento**. Utilizamos los hitos de [roadmap.sh](https://roadmap.sh/full-stack) para entender el "porqué" técnico antes de ejecutar un solo prompt.
 
 ## 🛠️ Metodología
 - **IA como Tutor:** Utilizamos prompts diseñados para que la IA actúe como un Arquitecto Senior, explicando lógica y patrones de diseño.
